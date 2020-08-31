@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Tool Button">
+    <file>resources/search.svg</file>
+    <file>resources/read.svg</file>
+    <file>resources/write.svg</file>
+    <file>resources/16.svg</file>
+    <file>resources/Boud.svg</file>
+    <file>resources/clear.svg</file>
+    <file>resources/com.svg</file>
+    <file>resources/send.svg</file>
+    <file>resources/start.svg</file>
+    <file>resources/stop.svg</file>
+    <file>resources/assistant.svg</file>
+  </qresource>
+</RCC>
